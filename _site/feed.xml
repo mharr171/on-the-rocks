@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-us</language>
+    <pubDate>Fri, 06 Oct 2017 00:53:12 -0700</pubDate>
+    <lastBuildDate>Fri, 06 Oct 2017 00:53:12 -0700</lastBuildDate>
+
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <link>http://localhost:4000/welcome-to-jekyll</link>
+        <pubDate>Thu, 05 Oct 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      </item>
+    
+      <item>
+        <title>Commodo dolore aliqua</title>
+        <link>http://localhost:4000/blah-nasdj-kjnasdf</link>
+        <pubDate>Wed, 04 Oct 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Nisi officia duis veniam aliquip proident reprehenderit consectetur. Sunt aliqua sit eu dolore voluptate qui duis enim consectetur proident cupidatat et. Magna Lorem irure et officia irure dolor ea incididunt dolore Lorem.&lt;/p&gt;
+
+&lt;p&gt;Amet magna aliquip enim consectetur nisi officia laborum qui. Nostrud anim eu occaecat aute commodo enim laborum velit esse ipsum tempor occaecat consectetur laborum. Est excepteur ut nostrud excepteur mollit quis do proident quis enim aliqua sint ex veniam sint pariatur. Nulla dolore aliquip esse cupidatat ipsum sunt aute velit velit in laborum anim enim nisi occaecat. Mollit et nostrud dolor magna ea excepteur adipisicing eu velit ea excepteur quis ullamco elit minim. Laborum qui in eiusmod mollit culpa fugiat commodo occaecat laboris ex magna ullamco sint fugiat deserunt dolor.&lt;/p&gt;
+
+&lt;p&gt;Dolor ipsum ea excepteur nostrud ad consequat in dolore duis sit. Incididunt consequat eu mollit irure minim consequat exercitation laboris aute cillum aute esse. Dolor exercitation culpa commodo enim qui tempor culpa. Consequat amet exercitation occaecat laborum nostrud aliquip sit fugiat in nisi amet nulla eu ex voluptate. Culpa consectetur reprehenderit nulla cupidatat amet sint reprehenderit pariatur minim ullamco est do tempor.&lt;/p&gt;
+
+&lt;p&gt;Officia reprehenderit mollit dolore eiusmod ex id aute. Occaecat laborum culpa
+in do ullamco ad ex ipsum amet elit minim incididunt pariatur consequat
+adipisicing tempor. Est culpa dolor nostrud incididunt aliquip occaecat ullamco
+sint qui Lorem eiusmod excepteur culpa consectetur. Nostrud magna aliquip
+nostrud irure laboris in pariatur. Commodo dolor aliquip duis deserunt voluptate
+id tempor. Cupidatat dolore incididunt voluptate incididunt laborum mollit minim
+reprehenderit commodo fugiat commodo enim. Amet eiusmod ea amet eiusmod ut sunt
+commodo sint consequat excepteur cillum Lorem veniam velit culpa ut officia.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Veniam qui eu proident</title>
+        <link>http://localhost:4000/weldfa-asdf2-3r</link>
+        <pubDate>Mon, 02 Oct 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Ipsum aliquip consectetur aliqua id qui veniam ut dolor sit nostrud cupidatat proident. Consequat nostrud duis pariatur cupidatat reprehenderit commodo veniam commodo id dolore est. Do quis occaecat esse enim ipsum ut labore et culpa eu duis sunt fugiat.&lt;/p&gt;
+
+&lt;p&gt;Labore ex ad sint est sunt fugiat irure pariatur aliquip nulla ex exercitation non minim commodo sint ipsum. Mollit occaecat non aliqua consequat nisi officia deserunt nisi. Non culpa aliquip mollit fugiat ipsum et culpa non non proident nulla dolore non sit sunt incididunt anim. Sint velit elit culpa cillum esse id esse Lorem amet enim nisi deserunt exercitation eiusmod dolore officia.&lt;/p&gt;
+
+&lt;p&gt;Dolore aute in dolore ipsum ad Lorem ut. In labore esse deserunt magna ad esse reprehenderit irure laborum sit esse veniam eu nostrud fugiat culpa consectetur. Laboris culpa qui veniam occaecat elit commodo voluptate in deserunt. In enim voluptate dolor proident in labore velit nostrud laboris officia. In consectetur anim eiusmod consequat tempor pariatur qui consectetur laborum consectetur consectetur ea excepteur. Enim aliqua culpa eiusmod aute nulla aliqua officia ea amet veniam officia id.&lt;/p&gt;
+
+&lt;p&gt;Incididunt aute sit et mollit consequat ipsum reprehenderit ullamco esse. Nisi
+ipsum aliqua commodo ullamco laboris exercitation duis incididunt amet. Eu
+officia adipisicing ex ullamco voluptate et fugiat elit minim est exercitation
+ex commodo. Consequat esse nostrud tempor ullamco excepteur dolor qui ea veniam
+fugiat. Adipisicing eiusmod sit elit nulla incididunt laborum magna commodo
+nostrud sit incididunt nostrud duis. Id laborum exercitation exercitation culpa
+amet ex occaecat Lorem excepteur ullamco duis laboris. Culpa excepteur laboris
+Lorem veniam ex anim laborum qui adipisicing eu enim ullamco nulla tempor minim
+consequat nostrud.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Voluptate consequat</title>
+        <link>http://localhost:4000/welcasdfasd-asdacv</link>
+        <pubDate>Sun, 01 Oct 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Quis et deserunt ea tempor aliquip eu ut. Ad ut laborum mollit ea proident enim commodo nostrud ea voluptate et proident nulla esse. Voluptate adipisicing dolor veniam occaecat exercitation irure eu esse labore nostrud ullamco cupidatat sit cillum laboris ex. Ad sunt nostrud voluptate duis consequat enim sint elit elit irure aliqua mollit elit. Reprehenderit minim minim sint exercitation laboris nulla excepteur Lorem sit qui reprehenderit mollit tempor et ut anim. Id officia ad velit amet ad veniam tempor. Voluptate esse laborum consequat occaecat laboris aute aute Lorem amet. Tempor eu veniam pariatur officia duis consectetur sint anim voluptate.&lt;/p&gt;
+
+&lt;p&gt;Duis ullamco consectetur commodo reprehenderit esse magna fugiat. Laborum cupidatat minim aliquip duis ex sint do minim ullamco aute. Sunt quis mollit nostrud reprehenderit cupidatat veniam cupidatat culpa nostrud elit ipsum fugiat consectetur id est. Deserunt culpa labore ipsum proident veniam esse non consectetur ullamco ullamco. Enim ad officia dolore dolor laboris est aliquip qui cillum esse magna velit exercitation dolore. Laborum sint consequat excepteur voluptate commodo non nostrud culpa incididunt quis nulla. Nostrud reprehenderit commodo veniam ex elit cupidatat est ex esse labore excepteur Lorem enim commodo fugiat esse.&lt;/p&gt;
+
+&lt;p&gt;Anim minim incididunt aute do amet aliquip duis magna nisi. Tempor ipsum est magna velit adipisicing dolore ipsum quis. Enim mollit Lorem do sint minim mollit culpa quis non Lorem elit. Lorem est ut deserunt non est nulla proident dolor adipisicing dolor. Ullamco veniam aute pariatur velit proident et cupidatat excepteur in.&lt;/p&gt;
+
+&lt;p&gt;Sint deserunt qui laboris minim magna nisi enim qui ea esse cupidatat proident
+sunt in irure enim reprehenderit. Nisi eu eiusmod excepteur incididunt et id
+nulla et et. Ut anim nulla occaecat aliquip ea Lorem est. Commodo officia
+ullamco veniam minim mollit mollit Lorem non aliqua nulla enim voluptate ipsum
+fugiat pariatur laborum. Eu irure dolore id consequat enim ea qui quis.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <link>http://localhost:4000/welcome-to-jekyll0</link>
+        <pubDate>Tue, 05 Sep 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+      </item>
+    
+      <item>
+        <title>Dolore commodo aliqua!</title>
+        <link>http://localhost:4000/blah-nasdj-kjnasdf0</link>
+        <pubDate>Mon, 04 Sep 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Nisi officia duis veniam aliquip proident reprehenderit consectetur. Sunt aliqua sit eu dolore voluptate qui duis enim consectetur proident cupidatat et. Magna Lorem irure et officia irure dolor ea incididunt dolore Lorem.&lt;/p&gt;
+
+&lt;p&gt;Amet magna aliquip enim consectetur nisi officia laborum qui. Nostrud anim eu occaecat aute commodo enim laborum velit esse ipsum tempor occaecat consectetur laborum. Est excepteur ut nostrud excepteur mollit quis do proident quis enim aliqua sint ex veniam sint pariatur. Nulla dolore aliquip esse cupidatat ipsum sunt aute velit velit in laborum anim enim nisi occaecat. Mollit et nostrud dolor magna ea excepteur adipisicing eu velit ea excepteur quis ullamco elit minim. Laborum qui in eiusmod mollit culpa fugiat commodo occaecat laboris ex magna ullamco sint fugiat deserunt dolor.&lt;/p&gt;
+
+&lt;p&gt;Dolor ipsum ea excepteur nostrud ad consequat in dolore duis sit. Incididunt consequat eu mollit irure minim consequat exercitation laboris aute cillum aute esse. Dolor exercitation culpa commodo enim qui tempor culpa. Consequat amet exercitation occaecat laborum nostrud aliquip sit fugiat in nisi amet nulla eu ex voluptate. Culpa consectetur reprehenderit nulla cupidatat amet sint reprehenderit pariatur minim ullamco est do tempor.&lt;/p&gt;
+
+&lt;p&gt;Officia reprehenderit mollit dolore eiusmod ex id aute. Occaecat laborum culpa
+in do ullamco ad ex ipsum amet elit minim incididunt pariatur consequat
+adipisicing tempor. Est culpa dolor nostrud incididunt aliquip occaecat ullamco
+sint qui Lorem eiusmod excepteur culpa consectetur. Nostrud magna aliquip
+nostrud irure laboris in pariatur. Commodo dolor aliquip duis deserunt voluptate
+id tempor. Cupidatat dolore incididunt voluptate incididunt laborum mollit minim
+reprehenderit commodo fugiat commodo enim. Amet eiusmod ea amet eiusmod ut sunt
+commodo sint consequat excepteur cillum Lorem veniam velit culpa ut officia.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Veniam qui eu proident</title>
+        <link>http://localhost:4000/weldfa-asdf2-3r0</link>
+        <pubDate>Sat, 02 Sep 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Ipsum aliquip consectetur aliqua id qui veniam ut dolor sit nostrud cupidatat proident. Consequat nostrud duis pariatur cupidatat reprehenderit commodo veniam commodo id dolore est. Do quis occaecat esse enim ipsum ut labore et culpa eu duis sunt fugiat.&lt;/p&gt;
+
+&lt;p&gt;Labore ex ad sint est sunt fugiat irure pariatur aliquip nulla ex exercitation non minim commodo sint ipsum. Mollit occaecat non aliqua consequat nisi officia deserunt nisi. Non culpa aliquip mollit fugiat ipsum et culpa non non proident nulla dolore non sit sunt incididunt anim. Sint velit elit culpa cillum esse id esse Lorem amet enim nisi deserunt exercitation eiusmod dolore officia.&lt;/p&gt;
+
+&lt;p&gt;Dolore aute in dolore ipsum ad Lorem ut. In labore esse deserunt magna ad esse reprehenderit irure laborum sit esse veniam eu nostrud fugiat culpa consectetur. Laboris culpa qui veniam occaecat elit commodo voluptate in deserunt. In enim voluptate dolor proident in labore velit nostrud laboris officia. In consectetur anim eiusmod consequat tempor pariatur qui consectetur laborum consectetur consectetur ea excepteur. Enim aliqua culpa eiusmod aute nulla aliqua officia ea amet veniam officia id.&lt;/p&gt;
+
+&lt;p&gt;Incididunt aute sit et mollit consequat ipsum reprehenderit ullamco esse. Nisi
+ipsum aliqua commodo ullamco laboris exercitation duis incididunt amet. Eu
+officia adipisicing ex ullamco voluptate et fugiat elit minim est exercitation
+ex commodo. Consequat esse nostrud tempor ullamco excepteur dolor qui ea veniam
+fugiat. Adipisicing eiusmod sit elit nulla incididunt laborum magna commodo
+nostrud sit incididunt nostrud duis. Id laborum exercitation exercitation culpa
+amet ex occaecat Lorem excepteur ullamco duis laboris. Culpa excepteur laboris
+Lorem veniam ex anim laborum qui adipisicing eu enim ullamco nulla tempor minim
+consequat nostrud.&lt;/p&gt;
+</description>
+      </item>
+    
+      <item>
+        <title>Voluptate consequat</title>
+        <link>http://localhost:4000/welcasdfasd-asdacv0</link>
+        <pubDate>Fri, 01 Sep 2017 21:30:57 -0700</pubDate>
+        <author></author>
+        <description>&lt;p&gt;Quis et deserunt ea tempor aliquip eu ut. Ad ut laborum mollit ea proident enim commodo nostrud ea voluptate et proident nulla esse. Voluptate adipisicing dolor veniam occaecat exercitation irure eu esse labore nostrud ullamco cupidatat sit cillum laboris ex. Ad sunt nostrud voluptate duis consequat enim sint elit elit irure aliqua mollit elit. Reprehenderit minim minim sint exercitation laboris nulla excepteur Lorem sit qui reprehenderit mollit tempor et ut anim. Id officia ad velit amet ad veniam tempor. Voluptate esse laborum consequat occaecat laboris aute aute Lorem amet. Tempor eu veniam pariatur officia duis consectetur sint anim voluptate.&lt;/p&gt;
+
+&lt;p&gt;Duis ullamco consectetur commodo reprehenderit esse magna fugiat. Laborum cupidatat minim aliquip duis ex sint do minim ullamco aute. Sunt quis mollit nostrud reprehenderit cupidatat veniam cupidatat culpa nostrud elit ipsum fugiat consectetur id est. Deserunt culpa labore ipsum proident veniam esse non consectetur ullamco ullamco. Enim ad officia dolore dolor laboris est aliquip qui cillum esse magna velit exercitation dolore. Laborum sint consequat excepteur voluptate commodo non nostrud culpa incididunt quis nulla. Nostrud reprehenderit commodo veniam ex elit cupidatat est ex esse labore excepteur Lorem enim commodo fugiat esse.&lt;/p&gt;
+
+&lt;p&gt;Anim minim incididunt aute do amet aliquip duis magna nisi. Tempor ipsum est magna velit adipisicing dolore ipsum quis. Enim mollit Lorem do sint minim mollit culpa quis non Lorem elit. Lorem est ut deserunt non est nulla proident dolor adipisicing dolor. Ullamco veniam aute pariatur velit proident et cupidatat excepteur in.&lt;/p&gt;
+
+&lt;p&gt;Sint deserunt qui laboris minim magna nisi enim qui ea esse cupidatat proident
+sunt in irure enim reprehenderit. Nisi eu eiusmod excepteur incididunt et id
+nulla et et. Ut anim nulla occaecat aliquip ea Lorem est. Commodo officia
+ullamco veniam minim mollit mollit Lorem non aliqua nulla enim voluptate ipsum
+fugiat pariatur laborum. Eu irure dolore id consequat enim ea qui quis.&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>

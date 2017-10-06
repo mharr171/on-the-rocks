@@ -1,0 +1,10 @@
+title: On The Rocks
+author: Matthew Harris
+email: matt@livefullstack.com
+description: A responsive Jekyll portfolio
+
+highlighter: null
+permalink: /:title
+
+url: ""
+baseurl: ""
